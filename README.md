@@ -1,5 +1,5 @@
 # Loan Default Prediction System
-
+ 
 ## Project Overview
 This repository contains a machine learning project to predict whether a loan applicant will default (`Loan_Status = N`) or repay (`Loan_Status = Y`) based on historical data. Built as a self-paced internship project, it covers data preprocessing, exploratory data analysis (EDA), model building, and evaluation using Python in Google Colab.
 
